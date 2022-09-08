@@ -4,6 +4,8 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 
 ## Table of contents
 
+I've added this readme to have a go at doing git and github stuff, which is still hard but makes more sense!
+
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
